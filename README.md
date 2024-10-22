@@ -1,6 +1,5 @@
-- 👋 Oi  @alanbragarocha Sou PCD
-- 👀 Estou interessado em trabalhar com desenvolvimento Web: Html | Css e javascript...
-- 🌱 Atualmente estou aprendendo. Node.js e Angular...
+- 👋 Oi  @alanbragarocha
+- 👀 PCD | Analista de sistema | Desenvolvedor Front-End: Html css e Javascript Angular |Back-End: Node.js🌐
 - 👨🏻‍💼 Estou procurando colaborar para adquirir conhecimento ...
 - 📫 Como chegar até mim ...
 
@@ -16,3 +15,5 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+   <img align="center" alt="js" src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/angular-ff3131?style=for-the-badge&logo=angular&logoColor=black" />
