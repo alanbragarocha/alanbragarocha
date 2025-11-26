@@ -18,50 +18,41 @@ Com formação em **Análise de Sistemas** e especialização em andamento em **
 ---
 
 ## 🚀 Projetos em Destaque
-<!-- 
-  INSTRUÇÕES: Substitua os placeholders abaixo pelos seus projetos. 
-  - Para a imagem, suba um print do seu projeto para uma issue no seu repositório e copie o link.
-  - Você pode encontrar mais ícones de tecnologia em https://skillicons.dev/
--->
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Nome do Projeto 1</h3>
+      <h3 align="center">4ª Igreja Presbiteriana de Macaé</h3>
       <br />
-      <a href="URL_DO_SITE_DO_PROJETO_1">
-        <!-- IMAGEM DO PROJETO 1: Substitua pelo link da imagem -->
-        <img src="https://user-images.githubusercontent.com/25181517/183891782-b353d436-5513-4352-b655-9d3a274533fd.png" alt="Imagem do Projeto 1"/>
+      <a href="https://4ipbmacae.com.br/">
+        <img src="https://raw.githubusercontent.com/alanbragarocha/projetos/main/igrejapresbiteriana-react/public/assets/imagens/logo.png" alt="Imagem do site da 4ª Igreja Presbiteriana de Macaé" width="250"/>
       </a>
       <br />
       <p align="center">
-        <a href="URL_DO_REPOSITORIO_1" style="display: inline-block; margin: 4px;">
+        <a href="https://github.com/alanbragarocha/projetos/tree/main/igrejapresbiteriana-react" style="display: inline-block; margin: 4px;">
           <img src="https://img.shields.io/badge/C%C3%B3digo-0D1117?style=for-the-badge&logo=github&logoColor=white" />
         </a>
-        <a href="URL_DO_SITE_DO_PROJETO_1" style="display: inline-block; margin: 4px;">
-          <img src="https://img.shields.io/badge/Site-0078D4?style=for-the-badge&logo=vercel&logoColor=white" />
+        <a href="https://4ipbmacae.com.br/" style="display: inline-block; margin: 4px;">
+          <img src="https://img.shields.io/badge/Site-0078D4?style=for-the-badge&logo=react&logoColor=white" />
         </a>
       </p>
-      <!-- DESCRIÇÃO DO PROJETO 1: Substitua pela descrição -->
-      <p>Uma breve descrição do seu projeto, o problema que ele resolve e as tecnologias que você usou, como <strong>React</strong>, <strong>Django</strong> e <strong>PostgreSQL</strong>.</p>
+      <p>Website institucional para a 4ª IPB de Macaé, desenvolvido para fortalecer a comunicação com os membros e visitantes. Feito com <strong>React</strong> e <strong>JavaScript</strong>.</p>
     </td>
     <td width="50%">
-      <h3 align="center">Nome do Projeto 2</h3>
+      <h3 align="center">Suellen Marcelino</h3>
       <br />
-      <a href="URL_DO_SITE_DO_PROJETO_2">
-        <!-- IMAGEM DO PROJETO 2: Substitua pelo link da imagem -->
-        <img src="https://user-images.githubusercontent.com/25181517/183891782-b353d436-5513-4352-b655-9d3a274533fd.png" alt="Imagem do Projeto 2"/>
+      <a href="https://suellenmarcelino.com/">
+        <img src="https://raw.githubusercontent.com/alanbragarocha/projetos/main/salao/assets/images/logo.png" alt="Imagem do site de Suellen Marcelino" width="250"/>
       </a>
       <br />
       <p align="center">
-        <a href="URL_DO_REPOSITORIO_2" style="display: inline-block; margin: 4px;">
+        <a href="https://github.com/alanbragarocha/projetos/tree/main/salao" style="display: inline-block; margin: 4px;">
           <img src="https://img.shields.io/badge/C%C3%B3digo-0D1117?style=for-the-badge&logo=github&logoColor=white" />
         </a>
-        <a href="URL_DO_SITE_DO_PROJETO_2" style="display: inline-block; margin: 4px;">
-          <img src="https://img.shields.io/badge/Site-0078D4?style=for-the-badge&logo=vercel&logoColor=white" />
+        <a href="https://suellenmarcelino.com/" style="display: inline-block; margin: 4px;">
+          <img src="https://img.shields.io/badge/Site-0078D4?style=for-the-badge&logo=wordpress&logoColor=white" />
         </a>
       </p>
-      <!-- DESCRIÇÃO DO PROJETO 2: Substitua pela descrição -->
-      <p>Uma breve descrição do seu projeto, o problema que ele resolve e as tecnologias que você usou, como <strong>Python</strong>, <strong>Flask</strong> e <strong>SQLite</strong>.</p>
+      <p>Landing page para o salão de beleza Suellen Marcelino, focada em agendamentos e apresentação dos serviços. Feito com <strong>WordPress</strong>.</p>
     </td>
   </tr>
 </table>
